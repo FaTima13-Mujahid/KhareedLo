@@ -9,7 +9,7 @@ async function connectionDB() {
       console.log("MONGODB Atlas connected successfully!!!");
     }
   } catch (error) {
-    console.log("Connectitivity error", error);
+    console.log("Connectivity error", error);
   }
 }
 //---export function
